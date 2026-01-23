@@ -1,0 +1,23 @@
+[
+  {
+    "airline": "IndiGo",
+    "flight_no": "6E-234",
+    "price": 2200,
+    "departure": "08:00",
+    "arrival": "09:30"
+  },
+  {
+    "airline": "Air India",
+    "flight_no": "AI-502",
+    "price": 3200,
+    "departure": "10:00",
+    "arrival": "11:45"
+  },
+  {
+    "airline": "SpiceJet",
+    "flight_no": "SG-811",
+    "price": 2600,
+    "departure": "18:00",
+    "arrival": "19:30"
+  }
+]

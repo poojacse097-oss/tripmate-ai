@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Budget Stay Inn",
+    "price_per_night": 1200,
+    "rating": 3.8,
+    "area": "City Center"
+  },
+  {
+    "name": "Comfort Residency",
+    "price_per_night": 1800,
+    "rating": 4.1,
+    "area": "Near Railway Station"
+  },
+  {
+    "name": "Luxury Grand Hotel",
+    "price_per_night": 4200,
+    "rating": 4.6,
+    "area": "Beach Road"
+  }
+]
